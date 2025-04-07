@@ -7,3 +7,4 @@ nbformat
 requests
 beautifulsoup4
 ipykernel
+streamlit
